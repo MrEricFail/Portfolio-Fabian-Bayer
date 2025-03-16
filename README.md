@@ -3,7 +3,7 @@ These are the portfolio Projects of Fabian Bayer, IT-Support-turned Programmer, 
 The projects represent some of the work I've done, some alone, some with friends.
 A discription is included in german and english.
 
-#Sovereign Froggy Comrade
+# Sovereign Froggy Comrade
 The name: a slight refrence to Super Mario Bros. 
 The sprites: Unity Store Licensed (Pixel Frog) and Golden UI (Buch from OpenGameArt.org)
 The Programming: done entierly by myself in a span of 3 weeks and touched up after some time.
