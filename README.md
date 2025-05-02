@@ -14,3 +14,8 @@ A discription is included in german and english.
 + The Project was a collaboration with 3 artists and 1 sound producer.
 + The theme of the game jam was "Snowed in".
 + https://mrericfail.itch.io/winters-wrath
+
+# MVVM Code Example
++ Unity Editor Tool for enemy generation
++ Made as a MVVM to learn this pattern
++ png to showcase included
