@@ -3,7 +3,14 @@ These are the portfolio Projects of Fabian Bayer, IT-Support-turned Programmer, 
 The projects represent some of the work I've done, some alone, some with friends.
 A discription is included in german and english.
 
+# Burned Feet
++ A game jam creation done in the span of 48h.
++ The project was a collaboration with 2 programmers and 2 artists
++ The theme of the game jam was "80s beach party"
++ https://mrericfail.itch.io/burned-feet
+
 # Sovereign Froggy Comrade
++ This was a finals project for the 1st semester at SAE and my first complete game project.
 + The name: a slight refrence to Super Mario Bros. 
 + The sprites: Unity Store Licensed (Pixel Frog) and Golden UI (Buch from OpenGameArt.org)
 + The Programming: done entierly by myself in a span of 3 weeks and touched up after some time.
@@ -11,7 +18,7 @@ A discription is included in german and english.
 
 # Winter's Wrath
 + A game jam creation done in the span of 48h.
-+ The Project was a collaboration with 3 artists and 1 sound producer.
++ The project was a collaboration with 3 artists and 1 sound producer.
 + The theme of the game jam was "Snowed in".
 + https://mrericfail.itch.io/winters-wrath
 
