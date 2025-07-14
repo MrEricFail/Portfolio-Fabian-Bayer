@@ -3,12 +3,6 @@ These are the portfolio Projects of Fabian Bayer, IT-Support-turned Programmer, 
 The projects represent some of the work I've done, some alone, some with friends.
 A discription is included in german and english.
 
-# Burned Feet
-+ A game jam creation done in the span of 48h.
-+ The project was a collaboration with 2 programmers and 2 artists
-+ The theme of the game jam was "80s beach party"
-+ https://mrericfail.itch.io/burned-feet
-
 # Sovereign Froggy Comrade
 + This was a finals project for the 1st semester at SAE and my first complete game project.
 + The name: a slight refrence to Super Mario Bros. 
@@ -22,6 +16,12 @@ A discription is included in german and english.
 + The theme of the game jam was "Snowed in".
 + https://mrericfail.itch.io/winters-wrath
 
+# Burned Feet
++ A game jam creation done in the span of 48h.
++ The project was a collaboration with 2 programmers and 2 artists
++ The theme of the game jam was "80s beach party"
++ https://mrericfail.itch.io/burned-feet
+  
 # MVVM Code Example
 + Unity Editor Tool for enemy generation
 + Made as a MVVM to learn this pattern
