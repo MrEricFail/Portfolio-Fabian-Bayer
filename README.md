@@ -13,12 +13,14 @@ A discription is included in german and english.
 # Winter's Wrath
 + A game jam creation done in the span of 48h.
 + The project was a collaboration with 3 artists and 1 sound producer.
++ This game was done in Unity and C#
 + The theme of the game jam was "Snowed in".
 + https://mrericfail.itch.io/winters-wrath
 
 # Burned Feet
 + A game jam creation done in the span of 48h.
 + The project was a collaboration with 2 programmers and 2 artists
++ This game was done in Unreal Engine 5 with C++ and Blueprints
 + The theme of the game jam was "80s beach party"
 + https://mrericfail.itch.io/burned-feet
   
